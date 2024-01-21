@@ -4,7 +4,7 @@
 
 For an interactive experience with the charts, you can view the Jupyter notebook of this project on nbviewer. Click the link below:
 
-[Interactive Jupyter Notebook on nbviewer](https://nbviewer.org/github/vytautas-bunevicius/mental-health-tech-industry/blob/main/mental-health.ipynb)
+[Interactive Jupyter Notebook on nbviewer](https://nbviewer.org/github/vytautas-bunevicius/Analysis-of-the-Mental-Health-in-the-Tech-Industry/blob/main/mental-health.ipynb)
 ## Setup Guide
 
 If you wish to run the code locally, follow these steps:
@@ -15,11 +15,11 @@ If you wish to run the code locally, follow these steps:
 
 - Clone the Repository
 
-            git clone https://github.com/vytautas-bunevicius/mental-health-tech-industry.git
+            git clone https://github.com/vytautas-bunevicius/Analysis-of-the-Mental-Health-in-the-Tech-Industry.git
 
 - Navigate to Repository Directory
 
-            cd mental-health-tech-industry
+            cd Analysis-of-the-Mental-Health-in-the-Tech-Industry
 
 - Launch Jupyter Notebook
 
@@ -27,7 +27,7 @@ If you wish to run the code locally, follow these steps:
 
 ## Overview
 
-This project involves the analysis of survey data related to mental health in the tech industry. The dataset includes responses from tech professionals, covering a range of topics such as attitudes toward mental health, reported mental health disorders, and the availability of resources in the workplace. The analysis aims to uncover trends, correlations, and insights that contribute to a better understanding of mental health issues within the tech sector.
+This project involves the analysis of survey data related to mental health in the tech industry using **Python** and **SQL**. The dataset includes responses from tech professionals, covering a range of topics such as attitudes toward mental health, reported mental health disorders, and the availability of resources in the workplace. The analysis, conducted with **Python** libraries such as **pandas, numpy, matplotlib, seaborn, nltk, gensim, and plotly**, aims to uncover trends, correlations, and insights that contribute to a better understanding of mental health issues within the tech sector.
 
 ## Research Objectives
 
