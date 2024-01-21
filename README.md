@@ -4,8 +4,7 @@
 
 For an interactive experience with the charts, you can view the Jupyter notebook of this project on nbviewer. Click the link below:
 
-Interactive Jupyter Notebook on nbviewer
-
+[Interactive Jupyter Notebook on nbviewer](https://nbviewer.org/github/vytautas-bunevicius/mental-health-tech-industry/blob/main/mental-health.ipynb)
 ## Setup Guide
 
 If you wish to run the code locally, follow these steps:
