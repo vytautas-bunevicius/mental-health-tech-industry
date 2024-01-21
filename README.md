@@ -1,6 +1,14 @@
 # Tech Industry Mental Health Survey Analysis
 
+## Interactive Charts
+
+For an interactive experience with the charts, you can view the Jupyter notebook of this project on nbviewer. Click the link below:
+
+Interactive Jupyter Notebook on nbviewer
+
 ## Setup Guide
+
+If you wish to run the code locally, follow these steps:
 
 - Install the required Python packages using the following command:
 
@@ -61,7 +69,7 @@ This project involves the analysis of survey data related to mental health in th
 
 ### 4. Resource Availability
 - The analysis shows that larger companies (1000+ employees) corresponded with a higher availability of mental health resources.
-- However, the correlation between reported mental health disorders and resource availability is very close to zero, indicating a complex relationship.
+- However, the correlation between reported mental health disorders and resource availability is very close to zero, it suggests that there is not a significant linear relationship between the number of reported mental health disorders and the availability of mental health resources
 
 ## Future Improvements
 
