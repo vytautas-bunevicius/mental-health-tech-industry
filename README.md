@@ -15,11 +15,11 @@ If you wish to run the code locally, follow these steps:
 
 - Clone the Repository
 
-            git clone https://github.com/vytautas-bunevicius/Analysis-of-the-Mental-Health-in-the-Tech-Industry.git
+            git clone https://github.com/vytautas-bunevicius/tech-mental-health-analysis.git
 
 - Navigate to Repository Directory
 
-            cd Analysis-of-the-Mental-Health-in-the-Tech-Industry
+            cd tech-mental-health-analysis
 
 - Launch Jupyter Notebook
 
