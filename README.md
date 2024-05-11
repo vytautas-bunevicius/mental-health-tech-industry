@@ -9,10 +9,6 @@ For an interactive experience with the charts, you can view the Jupyter notebook
 
 If you wish to run the code locally, follow these steps:
 
-- Install the required Python packages using the following command:
-
-            pip install -r requirements.txt
-
 - Clone the Repository
 
             git clone https://github.com/vytautas-bunevicius/tech-mental-health-analysis.git
@@ -20,6 +16,10 @@ If you wish to run the code locally, follow these steps:
 - Navigate to Repository Directory
 
             cd tech-mental-health-analysis
+
+- Install the required Python packages using the following command:
+
+            pip install -r requirements.txt
 
 - Launch Jupyter Notebook
 
