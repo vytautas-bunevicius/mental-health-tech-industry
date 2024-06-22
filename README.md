@@ -11,11 +11,11 @@ If you wish to run the code locally, follow these steps:
 
 - Clone the Repository
 
-            git clone https://github.com/vytautas-bunevicius/tech-mental-health-analysis.git
+            git clone https://github.com/vytautas-bunevicius/tech-industry-mental-health.git
 
 - Navigate to Repository Directory
 
-            cd tech-mental-health-analysis
+            cd tech-industry-mental-health
 
 - Install the required Python packages using the following command:
 
