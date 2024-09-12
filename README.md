@@ -10,21 +10,21 @@ For an interactive experience with the charts, you can view the Jupyter notebook
 If you wish to run the code locally, follow these steps:
 
 - Clone the Repository
-
-            git clone https://github.com/vytautas-bunevicius/tech-industry-mental-health.git
-
+  ```
+  git clone https://github.com/vytautas-bunevicius/tech-industry-mental-health.git
+  ```
 - Navigate to Repository Directory
-
-            cd tech-industry-mental-health
-
+  ```
+  cd tech-industry-mental-health
+  ```
 - Install the required Python packages using the following command:
-
-            pip install -r requirements.txt
-
+  ```
+  pip install -r requirements.txt
+  ```
 - Launch Jupyter Notebook
-
-            jupyter notebook
-
+  ```
+  jupyter notebook
+  ```
 ## Overview
 
 This project involves the analysis of survey data related to mental health in the tech industry using **Python** and **SQL**. The dataset includes responses from tech professionals, covering a range of topics such as attitudes toward mental health, reported mental health disorders, and the availability of resources in the workplace. The analysis, conducted with **Python** libraries such as **pandas, numpy, matplotlib, seaborn, nltk, gensim, and plotly**, aims to uncover trends, correlations, and insights that contribute to a better understanding of mental health issues within the tech sector.
