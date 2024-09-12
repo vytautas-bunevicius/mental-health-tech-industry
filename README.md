@@ -9,19 +9,19 @@ For an interactive experience with the charts, you can view the Jupyter notebook
 
 If you wish to run the code locally, follow these steps:
 
-- Clone the Repository
+1.Clone the Repository
   ```
   git clone https://github.com/vytautas-bunevicius/tech-industry-mental-health.git
   ```
-- Navigate to Repository Directory
+ 2.Navigate to Repository Directory
   ```
   cd tech-industry-mental-health
   ```
-- Install the required Python packages using the following command:
+3.Install the required Python packages using the following command:
   ```
   pip install -r requirements.txt
   ```
-- Launch Jupyter Notebook
+4.Launch Jupyter Notebook
   ```
   jupyter notebook
   ```
